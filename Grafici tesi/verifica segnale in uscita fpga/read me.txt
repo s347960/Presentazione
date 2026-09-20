@@ -1,0 +1,2 @@
+dato che i dati non sono sincronizzati ho verificato se il segnale in uscita dalla fpga (1kHz) e 1PPS fossero sincronizzati (lo sono)
+Il segnale a 1kHz collegato al generatore di funzione, triggera il segnale 1PPS. Prima del PPS non ho altri fronti d'onda a 1kHz
